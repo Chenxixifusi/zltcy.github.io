@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+div{
+    border: 0px solid red;
+}
+#banner{
+    width: 100%;
+    height:580px;
+    background-size: 100%;
+}
+#gridwrap{
+    width: 100%;
+    height: 1000px;
+}
+#left{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 30%;
+    height: 750px;
+    float:left;
+    box-shadow: 30px 10px 40px;
+}
+#right{
+    margin-left: 50px;
+    width: 60%;
+    height: 850px;
+    float:left;
+}
+.bottom-1{
+    margin-right: 25px;
+    width: 30%;
+    float: left;
+}
+
+

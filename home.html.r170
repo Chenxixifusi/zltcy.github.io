@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <link href="css/home.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="main" >
+    <div id="header" >
+        </div>
+        <div id="banner" >
+            <img src="images/banner01.jpg " width="1900px" height="925px" />
+            <div id="banner_txt">
+                <p>
+                    New England Aquarium
+                </p>
+                <h1>
+                    STEPHEN<br>
+                    KING SHINES<br>
+                    ON.<br>
+                </h1>
+            </div>
+
+            <div id="top_txt" >
+                <img src="images/squiggle.gif"/><br>
+                IMAGINATION TO APPLICATION<br>
+                <p>From empowering challenger brands to think big to helping global brands feel closer to<br>
+                    home, we leverage technology to bring people closer to the products, content, and<br>
+                    experiences they love.<br>
+                </p>
+            </div>
+            <div id="gridwrap" >
+                <div id="inner1" ><div id="inner1-1" class="inner" ><div id="inner1-2" class="inner-txt" >R+Co:A Brand is Born</div></div></div>
+                <div id="inner2" ><div id="inner2-1" class="inner" ><div id="inner2-2" class="inner-txt">R+Co:A Brand is Born</div></div></div>
+                <div id="inner3"  ><div id="inner3-1"><div id="inner3-2" ></div>
+                    <h3>
+                        TRENDS<br>
+                    </h3>
+                    <h1>
+                        FROM<br>
+                    </h1>
+                    <h2>
+                        CANVAS TO<br>
+                    </h2>
+                    <h2>
+                        DIGITAL ART GOES<br>
+                    </h2>
+                    <h2>
+                        MAINSTREAM.<br>
+                    </h2>
+                </div>
+                </div>
+                <div id="inner4"  > <div id="inner4-1"><div id="inner4-2"></div>
+                    <div id="inner4-1-1" >
+                        <h3>
+                            TRENDS<br>
+                        </h3>
+                        <h1>
+                            FROM CANVAS<br>
+                            TO SCREEN<br>
+                        </h1>
+                        <h2>
+                            DIGITAL ART GOES<br>
+                            MAINS TREAM.<br>
+                        </h2>
+                    </div>
+                </div>
+                </div>
+                <div id="inner5"  > <div id="inner5-1" class="inner" ><div id="inner5-2" class="inner-txt">R+Co:A Brand is Born</div> </div></div>
+                <div id="inner6"  > <div id="inner6-1" class="inner" ><div id="inner6-2" class="inner-txt">R+Co:A Brand is Born</div> </div></div>
+                <div id="inner7"  > <div id="inner7-1" class="inner" ><div id="inner7-2" class="inner-txt">R+Co:A Brand is Born</div> </div></div>
+                <div id="inner8"  > <div id="inner8-1" class="inner" ><div id="inner8-2" class="inner-txt">R+Co:A Brand is Born</div> </div></div>
+                <div id="inner9"  > <div id="inner9-1"><div id="inner9-2"></div>
+                    <h3>
+                        TRENDS<br>
+                    </h3>
+                    <h1>
+                        FROM<br>
+                    </h1>
+                    <h2>
+                        CANVAS TO<br>
+                    </h2>
+                    <h2>
+                        DIGITAL ART GOES<br>
+                    </h2>
+                    <h2>
+                        MAINSTREAM.<br>
+                    </h2>
+                </div>
+                </div>
+                <div id="inner10"  > <div id="inner10-1" class="inner" ><div id="inner10-2" class="inner-txt">R+Co:A Brand is Born</div></div></div>
+            </div>
+            <div id="buttom_txt" >
+                <br>
+                <h1>MAKE. WORK. PLAY.</h1> <BR>
+                <h2>SINCE 2001<h2><br>
+                    <p>With an award winning 15 year track record, DOMANI has been recognized as one of the top digital agencies in business today.<br>
+                        We help brands around the world express theemselves and collaboratively connect with their audiences.
+                    </p>
+            </div>
+            <div id="footer" >
+            <div id="footer_1">
+                <br><br><br> <br><br><br> <br><br><br> <br><br><br>
+                2015 Domani Studios LLC.
+            </div>
+            <div id="footer_2">
+                <br><br><br> <br>
+                <h1>Walk</h1>
+                <p> 32 Avenue of the Americas<br>
+                    19th Floor<br>
+                    New York, NY 10013<br>
+                    View on Map<br>
+                </p>
+            </div>
+            <div id="footer_3">
+                <br><br><br> <br>
+                <h1>Talk</h1>
+                <p> New Biz:<a href ="#">hello@domanistudios.com</a><br>
+                    General:<a href ="#">hello@domanistudios.com</a><br>
+                    Careers: <a href ="#">workwithus@domanistudios.com</a><br>
+                    Phone:646-744-3501 / Fax:212-242-4112<br>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

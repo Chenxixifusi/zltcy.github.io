@@ -1,0 +1,273 @@
+#main{
+
+    background-image: url("../images/LOVE FILA/bg-pattern.gif");
+    background-size: 100%;
+    margin: 0 auto;
+}
+
+#banner{
+
+    width: 100%;
+    height: 686px;
+    background-image: url("../images/LOVE FILA/Block1a.jpg");
+    background-size: 100%;
+}
+#toptext{
+    height: 380px;
+    width:85%;
+    background-color: #ffffff;
+    margin-left: 9.2%;
+    margin-top: -80px;
+    box-shadow: 50px 50px 30px lightgray;
+
+}
+#toptextleft{
+    width: 65%;
+    height:440px;
+    float: left; border: red 1px solid;
+
+}
+#toptextright{
+    border: red 1px solid;
+    text-align: right;
+    width: 30%;
+    height:440px;
+    float:left;
+    padding-right: 3%;
+
+
+}
+#top{
+
+    height: 570px;
+    width:84%;
+    background-image: url("../images/LOVE FILA/Block1-1.jpg");
+    background-size: 100%;
+    margin-left: 8%;
+    margin-top: 100px;
+ }
+#topinner{
+
+   margin-top: -70px;
+    margin-left: 8%;
+    width: 35%;
+    height: 60px;
+    line-height: 50px;
+    background-color: red;
+
+}
+#middletext{
+    width: 84%;
+    height: 200px;
+    boder:red 1px solid;
+    margin-left: 8%;
+    background-color: #87ceeb;
+    box-shadow: 40px 40px 30px lightgray;
+}
+ #middletextleft{
+     width: 45%;
+     height: 200px;
+     float:left;
+ }
+ #middletextright{
+    width: 40%;
+     height: 200px;
+     float:right;
+ }
+#middle{
+
+    height: 655px;
+    width:96%;
+    margin-left: 2%;
+    background-image: url("../images/LOVE FILA/block2_01.jpg");
+    background-size: 100%;
+    margin-top: 100px;
+}
+#mid-late{
+
+    width:67% ;
+    height:530px;
+    background-image: url("../images/LOVE FILA/block2_04.jpg");
+    background-size: 100%;
+    margin-left: 22%;
+    margin-top: 100px;
+
+}
+#mid-latetext{
+    border: red solid 3px;
+    height: 150px;
+    width:30%;
+    margin-left: 8%;
+    margin-top: -130px;
+    background-color: #ffffff;
+    box-shadow: 0px 30px 30px lightgray;
+
+}
+
+
+#bottom{
+
+    height: 440px;
+    width: 95%;
+    margin-top: 100px;
+    box-shadow: 0px 30px 30px lightgray;
+}
+#bottom2show{
+    position:absolute;
+    color:white;
+    top:88%;
+     width:100%;
+    height: 10px;
+    TEXT-ALIGN: CENTER;
+    line-height: 10px;
+    display: none;
+
+}
+#bottom2:hover #bottom2show{
+     HEIGHT:40PX;
+     display: block;
+     LINE-HEIGHT: 5PX;
+     background-color: rgb(93,44,201);
+ }
+#bottom2:hover{
+    transform: scale(1.05,1.05);
+    display:block;
+}
+
+#bottom3:hover{
+    transform: scale(1.05,1.05);
+}
+#bottom3show{
+    position:absolute;
+    color:white;
+    top:88%;
+    width:100%;
+    height: 10px;
+    TEXT-ALIGN: CENTER;
+    line-height: 10px;
+    display: none;
+
+}
+#bottom3:hover #bottom3show{
+    HEIGHT:40PX;
+    display: block;
+    LINE-HEIGHT: 5PX;
+    background-color: rgb(93,44,201);
+}
+#bottom4:hover{
+    transform: scale(1.05,1.05);
+}
+#bottom4show{
+    position:absolute;
+    color:white;
+    top:88%;
+    width:100%;
+    height: 10px;
+    TEXT-ALIGN: CENTER;
+    line-height: 10px;
+    display: none;
+
+}
+#bottom4:hover #bottom4show{
+    HEIGHT:40PX;
+    display: block;
+    LINE-HEIGHT: 5PX;
+    background-color: rgb(93,44,201);
+}
+/*底部图片内容*/
+#bottom1{
+    height: 440px;
+    width: 17%;
+    float: left;
+    color: #ffffff;
+    background-color: #000000;
+   text-align: center;
+
+
+
+}
+#threeborrom{
+    float:left;
+    height:440px;
+    width:82%;
+}
+#bottom2control{
+    height: 440px;
+    width: 32%;
+    overflow: hidden;
+    float:left;
+
+}
+#bottom3control{
+    height: 440px;
+    width: 32%;
+    overflow: hidden;
+    float:left;
+
+}
+#bottom4control{
+    height: 440px;
+    width: 32%;
+    overflow: hidden;
+   float:left;
+
+}
+#bottom2{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/LOVE FILA/THUMB_umbro_ret_2.jpg");
+    background-size: 100%;
+    float: left;
+    transition:all 1s;
+
+}
+
+#bottom3{
+
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/LOVE FILA/work-thumb_rco_ret.jpg");
+    background-size: 100%;
+    float: left;
+    transition:all 1s;
+
+}
+#bottom4{
+
+    height: 100%;
+    width: 100%;
+    background-image: url("../images/LOVE FILA/Artboard-2.jpg");
+    background-size: 100%;
+    float: left;
+    transition:all 1s;
+
+}
+/*底部图片内容结束*/
+#footer{
+   margin-top: 0px;
+    height: 320px;
+    width: 77%;
+    color: #ffffff;
+    background-color: rgb(24,23,25);
+}
+#footerleft{
+    height: 320px;
+    width: 25%;
+    float:left;
+}
+#footermiddle{
+    height: 320px;
+    width: 25%;
+    float:left;
+    padding-top: 5%;
+    font-size: x-small;
+}
+#footerright{
+    height: 320px;
+    width: 25%;
+    float:left;
+    padding-top:5%;
+    font-size: x-small;
+}
+

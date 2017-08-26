@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+}
+div{
+    border: 0px solid #ffffff;
+}
+#main{
+    width: 1900px;
+    margin: 0 auto;
+    background-image: url("../images/home/bg-pattern.gif");
+}
+#header{
+     width: 100%;
+     height: 50px;
+     position: fixed;
+     z-index: 1;
+     opacity: 0.5;
+     background-color: rgb(244,244,245);
+ }
+#banner_1{
+    width: 100%;
+    height: 481px;
+    background-size: 100%;
+    background-image: url("../images/JFK Library/2.1.jpg");
+}
+#banner_2{
+    width: 70%;
+    height: 301px;
+    margin: 0 auto;
+    z-index: 100;
+    margin-top: -71px;
+    background-color: #fffaf0;
+    color: #000000;
+    box-shadow: 20px 20px 40px
+}
+#banner_2_1{
+    width: 70%;
+    height: 301px;
+    font-size: medium;
+    float: left;
+}
+#banner_2_2{
+    width: 29%;
+    height: 301px;
+    float: left;
+    font-size: x-small;;
+}
+#banner_3{
+    width: 70%;
+    height: 501px;
+    margin: 0 auto;
+    background-image: url("../images/JFK Library/2.3.jpg");
+    background-size: 100%;
+    margin-top: 200px;
+    position: relative;
+
+}
+#banner_3_1{
+      width: 30%;
+      height: 51px;
+      margin-top:401px;
+      background-color: #ffffff;
+      text-align: center;
+       position: absolute;
+    box-shadow: 40px 40px 60px
+  }
+#banner_3_2{
+    width: 100%;
+    height: 201px;
+    margin-top: 450px;
+    background-color: #ffffff;
+    box-shadow: 20px 20px 20px;
+    position: absolute;
+
+}
+#banner_3_2_1{
+    width: 70%;
+    height: 201px;
+    font-size: small;
+    float: left;
+}
+#banner_3_2_2{
+    width: 28%;
+    height: 201px;
+    font-family: serif;
+    float: left;
+}
+#gridwrap{
+    margin-top: 301px;
+    width: 100%;
+    height: 501px;
+    text-align: center;
+}
+#bottom{
+    margin-left: 30%;
+    width:60%;
+    height: 498px;
+    background-image: url("../images/JFK Library/2.5.jpg");
+    background-size: 100%;
+    position:relative;
+
+}
+#bottom_1{
+    margin-left: -250px;
+    width: 40%;
+    height: 250px;
+    box-shadow: 20px 20px 40px;
+    position: absolute;
+    margin-top: 400px;
+}
+#foeter{
+    margin-top: 201px;
+    width: 100%;
+    height: 321px;
+}
+.outer{
+    width: 25%;
+    height: 321px;
+    overflow: hidden;
+    float: left;
+}
+.foeter_1{
+    width: 24%;
+    height: 321px;
+
+    transition:all 1s;
+}
+.foeter_1:hover{
+    transform:scale(1.05,1.05) ;
+}
+.foeter_2{
+    width: 15%;
+    height: 321px;
+    float: left;
+}
+#footer{
+    width: 100%;
+    height: 310px;
+    background-size: 100%;
+    position: relative;
+}
+#footer_1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 500px;
+    height: 310px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+}
+#footer_2{
+    position: absolute;
+    top: auto;
+    left: 500px;
+    width: 250px;
+    height: 310px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align:left;
+}
+#footer_2 p{
+    font-size: 14px;
+}
+#footer_3{
+    position: absolute;
+    top: auto;
+    left: 750px;
+    width: 675px;
+    height: 310px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align:left;
+}
+#footer_3 p{
+    font-size: 14px;
+}
